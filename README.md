@@ -1,1 +1,1 @@
-# Mineria-de-texto-Candidatos-CONEVAL2020-Investigadores-academicos
+# Una mirada exploratoria a las vertientes propuestas de mejora en la medición y desarrollo social en Méxic
